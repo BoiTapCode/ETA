@@ -1,0 +1,11 @@
+dataset_type,city,source_file,notes
+pickup,Chongquing,data/raw/pickup/pickup_cq.csv,
+pickup,Hangzhou,data/raw/pickup/pickup_hz.csv,
+pickup,Jilin,data/raw/pickup/pickup_jl.csv,
+pickup,Shanghai,data/raw/pickup/pickup_sh.csv,
+pickup,Yantai,data/raw/pickup/pickup_yt.csv,
+delivery,Chongquing,data/raw/delivery/delivery_cq.csv,
+delivery,Hangzhou,data/raw/delivery/delivery_hz.csv,
+delivery,Jilin,data/raw/delivery/delivery_jl.csv,
+delivery,Shanghai,data/raw/delivery/delivery_sh.csv,
+delivery,Yantai,data/raw/delivery/delivery_yt.csv,
